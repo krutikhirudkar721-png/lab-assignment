@@ -1,2 +1,2 @@
-# numpy-lab-assignment
+#Lab-Assignment
 Python program demonstrating core concepts using NumPy with practical implementations.
