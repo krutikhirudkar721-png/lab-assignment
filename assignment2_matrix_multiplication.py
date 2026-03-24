@@ -1,3 +1,4 @@
+# Multiply 5x3 and 3x2 matrices using user input and print result
 import numpy as np
 
 def get_matrix(rows, cols, name):
