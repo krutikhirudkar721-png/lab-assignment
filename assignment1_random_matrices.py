@@ -1,3 +1,4 @@
+# Generate two 3x3 random matrices (1-9) and perform addition & multiplication
 import numpy as np
 
 def random_matrices_operations():
