@@ -2,7 +2,6 @@
 # display all, largest area/population, density, highest density
 
 import pandas as pd
-
 def states_operations():
     data = {
         "State": ["State1", "State2", "State3", "State4", "State5"],
